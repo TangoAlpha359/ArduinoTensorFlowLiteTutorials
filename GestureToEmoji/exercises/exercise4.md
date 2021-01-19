@@ -10,7 +10,7 @@
 1. Open the Serial Monitor: `Tools -> Serial Monitor`
 1. Make a flex gesture with the board in your hand
 1. Repeat 10 times
-1. Copy and paste the serial output to new text file `flex.csv` using your favorite text editor
+1. Copy and paste the serial output to new plain text file `flex.csv` using your favorite text editor
 
 ![screenshot of serial monitor with IMU data](../images/serial-monitor-imu.png)
 
